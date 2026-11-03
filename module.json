@@ -2,7 +2,7 @@
  "id": "vokashu-golosa-pomehi",
  "title": "Голоса Найт-Сити: Помехи",
  "description": "<p>Угон передвижной студии, конвой через руины Пасифики, кулачный бой за проезд, сделка с гаитянскими нетраннерами и концерт под ударом «Милитеха» на шестидесятой минуте. Самый громкий из пяти ваншотов. 4–5 часов, 3–5 эджраннеров любых ролей.</p><p>«Голоса Найт-Сити» — пять независимых ваншотов про первые за полвека выборы мэра в Найт-Сити осенью 2070 года, сразу после Войны за объединение. Их можно играть по одному, в любом порядке или кампанией: общий журнал объясняет, что творится в городе, а счётчик явки и эпилог «Ночь выборов» сводят истории вместе.</p><p>Автор — <strong>Vokashu</strong>. <a href=\"https://boosty.to/young_rome\">Boosty</a> · <a href=\"https://www.patreon.com/vokashu\">Patreon</a></p><p><em>Это неофициальный фанатский материал, созданный в рамках Homebrew Content Policy R. Talsorian Games; RTG его не одобряла и не поддерживает. Это неофициальная фанатская работа, CD PROJEKT RED её не одобряла и не поддерживает. Cyberpunk, Cyberpunk RED и Cyberpunk 2077 — товарные знаки CD PROJEKT S.A. Распространяется бесплатно.</em></p><p><em>This is unofficial content provided under the Homebrew Content Policy of R. Talsorian Games and is not approved or endorsed by RTG. This content references materials that are the property of R. Talsorian Games and its licensees. This is an unofficial fan work and is not approved/endorsed by CD PROJEKT RED.</em></p>",
- "version": "1.0.0",
+ "version": "1.1.0",
  "compatibility": {
   "minimum": "12",
   "verified": "12.343",
@@ -19,7 +19,7 @@
  ],
  "url": "https://github.com/vokashu365/vokashu-golosa-pomehi",
  "manifest": "https://github.com/vokashu365/vokashu-golosa-pomehi/releases/latest/download/module.json",
- "download": "https://github.com/vokashu365/vokashu-golosa-pomehi/releases/download/v1.0.0/vokashu-golosa-pomehi.zip",
+ "download": "https://github.com/vokashu365/vokashu-golosa-pomehi/releases/download/v1.1.0/vokashu-golosa-pomehi.zip",
  "bugs": "https://github.com/vokashu365/vokashu-golosa-pomehi/issues",
  "readme": "https://github.com/vokashu365/vokashu-golosa-pomehi#readme",
  "styles": [
