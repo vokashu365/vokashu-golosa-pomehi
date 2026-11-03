@@ -1,0 +1,47 @@
+/* «Голоса Найт-Сити» — journal styles */
+.golosa {
+  --g-accent: #1c9c9c;
+  --g-accent-dark: #0f5c5c;
+  --g-ink: #1d2126;
+  --g-read-bg: #10191c;
+  --g-read-ink: #e6f2f2;
+  line-height: 1.5;
+}
+.golosa h3 { border-bottom: 2px solid var(--g-accent); padding-bottom: 2px; margin-top: 1.2em; }
+.golosa h4 { color: var(--g-accent-dark); margin-top: 1em; }
+.golosa img { border: none; }
+.golosa .golosa-art { margin: 0 0 0.8em; }
+.golosa .golosa-art img, .golosa .golosa-figure img { width: 100%; height: auto; border-radius: 4px; display: block; }
+.golosa .golosa-figure { margin: 0.6em 0; text-align: center; }
+.golosa .golosa-label {
+  font-size: 0.72em; letter-spacing: 0.12em; text-transform: uppercase; font-weight: 700;
+  margin: 0 0 0.35em; color: var(--g-accent);
+}
+.golosa blockquote.golosa-read {
+  background: var(--g-read-bg); color: var(--g-read-ink); border: none; border-left: 4px solid var(--g-accent);
+  border-radius: 3px; padding: 0.7em 1em; margin: 0.8em 0; font-style: normal;
+}
+.golosa blockquote.golosa-read p { color: var(--g-read-ink); }
+.golosa .golosa-gm {
+  background: #fff4d6; border-left: 4px solid #c99500; border-radius: 3px; padding: 0.6em 1em; margin: 0.8em 0; color: var(--g-ink);
+}
+.golosa .golosa-gm .golosa-label { color: #8a6500; }
+.golosa aside.golosa-tip {
+  background: #e9f5f5; border: 1px dashed var(--g-accent); border-radius: 3px; padding: 0.6em 1em; margin: 0.8em 0; color: var(--g-ink);
+}
+.golosa blockquote.golosa-quote {
+  display: flex; gap: 0.8em; align-items: flex-start; background: #f3eff4; border: none; border-left: 4px solid #8c3a6a;
+  border-radius: 3px; padding: 0.6em 0.9em; margin: 0.8em 0; color: var(--g-ink); font-style: normal;
+}
+.golosa blockquote.golosa-quote .golosa-face { width: 64px; height: 64px; flex: 0 0 64px; object-fit: cover; }
+.golosa blockquote.golosa-quote .golosa-quote-body { flex: 1; }
+.golosa blockquote.golosa-quote .golosa-quote-body p { margin: 0 0 0.4em; }
+.golosa .golosa-cite { font-size: 0.9em; font-weight: 700; text-align: right; margin: 0; }
+.golosa .golosa-handout {
+  background: #f6f2e8; border: 1px solid #cdbf9c; border-radius: 2px; padding: 0.9em 1.1em; margin: 0.8em 0;
+  font-family: "Courier New", Courier, monospace; color: #2a2418; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+}
+.golosa table.golosa-table { width: 100%; border-collapse: collapse; margin: 0.6em 0; font-size: 0.95em; }
+.golosa table.golosa-table th { background: var(--g-accent-dark); color: #fff; text-align: left; padding: 4px 6px; }
+.golosa table.golosa-table td { border-bottom: 1px solid #c8d4d4; padding: 4px 6px; vertical-align: top; }
+.golosa .golosa-scenelink { font-weight: 700; }
